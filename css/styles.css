@@ -25,7 +25,6 @@
 }
 
 .sale-container {
-  margin-top: 80px;
   padding-left: 20px;
   padding-right: 20px;
   margin: 0 auto;
@@ -179,10 +178,6 @@
     padding-right: 32px;
   }
 
-  .sale-container {
-    margin-top: 128px;
-  }
-
   .sale-container .section-content {
     margin-left: 66px;
     margin-right: 66px;
@@ -217,10 +212,6 @@
   .container {
     padding-left: 132px;
     padding-right: 132px;
-  }
-
-  .sale-container {
-    margin-top: 80px;
   }
 
   .sale-container .section-content {
